@@ -3,5 +3,6 @@
     <pages>
         <page name='Music library duration 1'/>
         <page name='Music library duration 2'/>
+        <page name='Media library duration'/>
     </pages>
 </playground>
