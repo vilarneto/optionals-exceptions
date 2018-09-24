@@ -3,12 +3,8 @@
 import Foundation
 
 
-func getLibraryDuration(library: [Media]) -> Double {
+func getLibraryDuration(library: [Any]) -> Double {
     var totalDuration = 0.0
-
-    for media in library {
-        totalDuration += media.duration ?? 0.0
-    }
 
     return totalDuration
 }
