@@ -13,7 +13,7 @@ func getPlaylistDuration() -> Double {
 }
 
 // MARK: pd1
-print("A playlist contém \(getPlaylistDuration()) minutos.")
+print("A playlist contém \(getPlaylistDuration()) segundos.")
 
 
 //: [Próxima página](@next)
